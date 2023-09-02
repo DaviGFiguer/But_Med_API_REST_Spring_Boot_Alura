@@ -1,0 +1,1 @@
+alter table pacientes add bairro varchar(100) not null;
